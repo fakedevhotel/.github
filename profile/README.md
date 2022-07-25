@@ -2,10 +2,10 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=fakedevhotel.fakedevhotel) [![Github](https://img.shields.io/github/stars/fakedevhotel?style=social)](https://github.com/fakedevhotel)
 
-##### About us:
+#### About us:
 Were a small*ish* community which has grown over the past few years full of people who are interested in development and other things.
 
-##### What we work with:
+#### What we work with:
 We work with a wide range of technologies and languages, here are some of the ones we have worked with:
 - ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
