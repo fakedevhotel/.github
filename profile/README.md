@@ -22,6 +22,6 @@ We work with a wide range of technologies and languages, here are some of the on
 - ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ##### What are we up too?
-[![Discord Presence BRAYD](https://gh-profile.onlytunes.uk/api/402908830532501526)](https://discord.com/users/402908830532501526) [![Discord Presence CAL](https://gh-profile.onlytunes.uk/api/226453388039028736)](https://discord.com/users/226453388039028736) [![Discord Presence CAL](https://gh-profile.onlytunes.uk/api/161071543584030720)](https://discord.com/users/161071543584030720) [![Discord Presence EKKO](https://gh-profile.onlytunes.uk/api/231587864821891078)](https://discord.com/users/231587864821891078)
+[![Discord Presence BRAYD](https://gh-profile.onlytunes.uk/api/402908830532501526)](https://discord.com/users/402908830532501526) [![Discord Presence CAL](https://gh-profile.onlytunes.uk/api/226453388039028736)](https://discord.com/users/226453388039028736) [![Discord Presence CAL](https://gh-profile.onlytunes.uk/api/161071543584030720)](https://discord.com/users/161071543584030720) [![Discord Presence EKKO](https://gh-profile.onlytunes.uk/api/231587864821891078)](https://discord.com/users/231587864821891078) [![Discord Presence EKKO](https://gh-profile.onlytunes.uk/api/203149872210116608)](https://discord.com/users/203149872210116608)
 
 
